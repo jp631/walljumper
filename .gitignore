@@ -1,0 +1,58 @@
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build output directories
+build/
+dist/
+out/
+public/static/
+
+# Environment files
+.env
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+
+# Temporary files
+tmp/
+temp/
+.cache/
+coverage/
+
+# React specific
+react-build/
+*.map
+.htaccess
+
+# Spine files
+# Ignore exported spine assets if needed
+*.spine
+*.atlas
+*.json
+*.png
+*.jpg
+
+# Other files you may want to ignore
+*.tgz
+*.pdb
+*.sublime-settings
+*.sln
+*.user
+Thumbs.db
+
+# Operating System files
+Thumbs.db
+.DS_Store
+ehthumbs.db
+Icon?
